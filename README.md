@@ -1,4 +1,7 @@
-👋 Welcome To My Site 👋
+👋 Welcome To My Page 👋
+
+🏫 I'm Student Developer
+💻 Mostly Use C++, Python. I Also Know Java
 
 <!--
 **noneid52/noneid52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
